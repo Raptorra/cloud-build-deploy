@@ -20,8 +20,3 @@ steps:
    - 'managed'
  images:
  - 'gcr.io/enigma4-290909/service-test-cloudrun:$COMMIT_SHA'
-
-
-enigma4-290909
-
-helloworld
