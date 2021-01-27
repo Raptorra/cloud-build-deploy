@@ -18,5 +18,5 @@ steps:
    - 'europe-west1'
    - '--platform'
    - 'managed'
- images:
- - 'gcr.io/enigma4-290909/service-test-cloudrun:$COMMIT_SHA'
+images:
+- 'gcr.io/enigma4-290909/service-test-cloudrun:$COMMIT_SHA'
